@@ -1,5 +1,5 @@
 //RGB LED pins
-int ledDigitalOne[] = {11, 12, 13}; //the three digital pins of the digital LED 
+int ledDigitalOne[] = {9, 10, 11}; //the three digital pins of the digital LED 
                                    //9 = redPin, 10 = greenPin, 11 = bluePin
 
 const boolean ON = LOW;     //Define on as LOW (this is because we use a common 
